@@ -1,4 +1,4 @@
-# My First React Native App - CPAN 213
+# My Second React Native App - CPAN 213
 ## Description
 This is my first React Native application created for CPAN 213 course.
 ## Student Information
