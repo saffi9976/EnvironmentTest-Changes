@@ -5,7 +5,7 @@ This is my second React Native application created for CPAN 213 course.
 - Name: [Saffi Ahmad]
 - Student ID: [n01708324@humber.ca]
 - Course: CPAN 213 - Cross-Platform Mobile Application Development
-- Date: September 2, 2025
+- Date: September 22, 2025
 ## Getting Started
 1. Clone this repository
 2. Run `npm install`
